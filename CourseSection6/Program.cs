@@ -9,7 +9,8 @@ namespace CourseSection6
 		static void Main(string[] args)
 		{
 
-			Console.WriteLine("Teste Git");
+			
+
 
 			HashSet<int> A = new HashSet<int>();
 			HashSet<int> B = new HashSet<int>();
